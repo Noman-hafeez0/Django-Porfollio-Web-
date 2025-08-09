@@ -31,7 +31,4 @@ The project helped me explore backend development, work with databases, and cust
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
    git clone [https://github.com/yourusername/django-portfolio.git](https://github.com/Noman-hafeez0/Django-Porfollio-Web-.git)
